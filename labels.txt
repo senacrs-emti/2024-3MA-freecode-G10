@@ -1,0 +1,5 @@
+0 Glicose linear
+1 Glicose ciclica beta
+2 Glicose ciclica alfa
+3 Aminoacido
+4 Frutose
